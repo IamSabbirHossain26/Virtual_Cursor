@@ -9,7 +9,7 @@
 
 Control your mouse using hand gestures and a webcam.
 
-## 🖱️ Features
+## 🖱️ Features of this tools
 - Left Click (index + thumb pinch)
 - Right Click (middle + thumb pinch)
 - Drag & Drop (hold index + thumb)
