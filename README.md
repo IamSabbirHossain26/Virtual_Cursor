@@ -7,7 +7,7 @@
 
 # Virtual Hand Cursor
 
-Control your mouse using hand gestures and a webcam.
+Control your mouse using hand gestures and a webcam without touching your physical mouse.
 
 ## 🖱️ Features of this tools
 - Left Click (index + thumb pinch)
