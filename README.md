@@ -26,7 +26,7 @@ python main.py
 Make sure your lighting is good for accurate tracking.
 
 
-## ▶️ How to Run this tool
+## ▶️ How to use this tool
 
 please download the zip file first. open in VS code or other code interpreter.
 
