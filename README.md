@@ -15,7 +15,7 @@ Control your mouse using hand gestures and a webcam without touching your physic
 - Drag & Drop (hold index + thumb)
 - Scroll (move hand up/down)
 
-## ▶️ Run
+## ▶️ How To Run
 
 ```bash
 pip install -r requirements.txt
