@@ -22,7 +22,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 💡 Important Tip
+## 💡 Important Tip for this project
 Make sure your lighting is good for accurate tracking.
 
 
