@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-informational)
 
 
-# Virtual Hand Cursor project
+# My Virtual Hand Cursor project
 
 Control your mouse using hand gestures and a webcam without touching your physical mouse.
 
